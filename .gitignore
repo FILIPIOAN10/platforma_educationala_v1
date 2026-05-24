@@ -1,0 +1,13 @@
+# build outputs
+backend/target/
+frontend/dist/
+frontend/node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# misc
+*.log
+.DS_Store
